@@ -12,14 +12,16 @@ Modern security depends on computational complexity—specifically, how fast or 
 ## Hypothesis
 
 Modern cryptographic security relies on asymmetric mathematical problems—operations that are easy to perform in one direction but computationally 
-almost impossible to reverse without specific key information.
+almost impossible to reverse without specific key information. This could be due to the nature of the numbers chosen for the encryption; it could be 
+prime numbers. In that case, the higher the numbers are, the harder it is to find prime numbers, so by using extremely large prime numbers, it could make it 
+near impossible to reverse the encryption.
 
 ## Questions
 
 - Why does cryptography depend on mathematics?
 - Why are some mathematical problems useful for cryptography?
 - What makes a problem computationally difficult?
-- Why can't computers simply reverse encryption?
+- Why can’t computers simply reverse encryption?
 - What role does computer science play?
 - How does quantum computing change the situation?
 
