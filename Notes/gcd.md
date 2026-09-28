@@ -34,7 +34,7 @@ The algorithm stops when the remainder becomes 0.
 
 ## My Implementation
 
-[\[describe or link to gcd.py\]](../Projects/01-number-theory-toolkit/src/gcd.py)
+[\[link\]](../Projects/01-number-theory-toolkit/src/gcd.py)
 
 ## Experiment
 
