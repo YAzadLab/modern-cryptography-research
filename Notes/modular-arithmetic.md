@@ -67,8 +67,10 @@ Now we need to calculate:
     
 Now we need to multiply 4 x 3 to get 12mod(7) 
 
-then finally work out the last equation 12od(7) to get 5
+then finally work out the last equation 12mod(7) to get 5
 
 Is it more efficient to calculate the entire number first and then take the remainder, or can w take the 
 remainders during the calculation?
 
+Here is the link to my implementation:
+[text](../Projects/01-number-theory-toolkit/src/modular_arithmetic.py)
