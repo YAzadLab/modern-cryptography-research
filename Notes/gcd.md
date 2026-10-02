@@ -31,3 +31,6 @@ This experiment showed me that finding the correct solution to a mathematical pr
 I also learned that the GCD can determine whether two integers are coprime. If `gcd(a, b) = 1`, then the two numbers share no positive divisor other than 1. This is relevant to cryptography because coprimality is important when working with modular inverses and algorithms such as RSA.
 
 Comparing the two GCD algorithms also introduced an important idea for the rest of my research: the difficulty of a mathematical problem depends not only on whether it can be solved, but also on how efficiently it can be solved as the size of the input increases.
+
+Here is the link to my code:
+[GCD algorithm](../Projects/01-number-theory-toolkit/src/gcd.py)
